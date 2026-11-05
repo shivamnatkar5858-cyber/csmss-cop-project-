@@ -1,0 +1,223 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 4 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1624 >>
+stream
+
+    0.08 0.12 0.28 rg 0 0 842 595 re f
+    0.14 0.22 0.45 rg 40 40 762 515 re f
+    1 1 1 rg
+    BT /F1 28 Tf 70 480 Td (RF COMMUNICATION RANGE CALCULATOR) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F2 15 Tf 70 445 Td (Advanced Link Budget Analysis & Path Loss Propagation Modeling) Tj ET
+    0.85 0.90 0.95 rg
+    BT /F2 13 Tf 70 415 Td (Department of Electronics And Communication \(Advanced Communication Technology\)) Tj ET
+    BT /F2 12 Tf 70 395 Td (CSMSS Chh. Shahu College of Engineering, Chh. Sambhajinagar) Tj ET
+    
+    0.18 0.30 0.55 rg 60 210 340 160 re f
+    1 1 1 rg
+    BT /F1 14 Tf 80 340 Td (TEAM MEMBERS & ROLL NUMBERS:) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 12 Tf 80 315 Td (1. Chaitnaya Shinde - AC2152 \(Team Leader\)) Tj ET
+    BT /F2 12 Tf 80 295 Td (2. Dipak Belkar - AC2126) Tj ET
+    BT /F2 12 Tf 80 275 Td (3. Lokesh Norlawar - AC2146) Tj ET
+    BT /F2 12 Tf 80 255 Td (4. Kiran Sasane - AC2118) Tj ET
+    BT /F2 12 Tf 80 235 Td (5. Shruti Shinde - AC2145) Tj ET
+
+    0.18 0.30 0.55 rg 440 210 340 160 re f
+    1 1 1 rg
+    BT /F1 14 Tf 460 340 Td (PROJECT GUIDE & STATUS:) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F1 13 Tf 460 315 Td (Guide: Prof. Amruta Kadli Mam) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 12 Tf 460 295 Td (Department: Electronics & Communication \(ACT\)) Tj ET
+    BT /F1 14 Tf 460 265 Td (Current Progress: 85% COMPLETED) Tj ET
+    0.16 0.72 0.44 rg 460 240 280 18 re f
+    0.14 0.22 0.45 rg 462 242 238 14 re f
+    1 1 1 rg
+    BT /F2 11 Tf 460 218 Td (Presentation Deadline: 31st October 2026) Tj ET
+
+    BT /F2 11 Tf 280 70 Td (Academic Year 2026-2027 | Major Engineering Project) Tj ET
+    
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 6 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 1901 >>
+stream
+
+    0.96 0.97 0.99 rg 0 0 842 595 re f
+    0.08 0.15 0.35 rg 0 520 842 75 re f
+    1 1 1 rg
+    BT /F1 22 Tf 50 545 Td (Project Abstract & Core Objectives) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F2 12 Tf 50 530 Td (RF Communication Range Calculator & Free-Space Attenuation Analysis) Tj ET
+
+    0.1 0.15 0.25 rg
+    BT /F1 15 Tf 60 470 Td (1. Executive Summary) Tj ET
+    BT /F2 12 Tf 60 445 Td (Reliable wireless communication demands accurate estimation of maximum effective) Tj ET
+    BT /F2 12 Tf 60 425 Td (operating distances before hardware deployment. The RF Communication Range Calculator) Tj ET
+    BT /F2 12 Tf 60 405 Td (provides an interactive computational link-budget tool for microwave & sub-GHz links.) Tj ET
+
+    BT /F1 15 Tf 60 355 Td (2. Primary Objectives) Tj ET
+    BT /F2 12 Tf 80 330 Td (- Automate Friis Transmission equation and Free-Space Path Loss \(FSPL\) formulations.) Tj ET
+    BT /F2 12 Tf 80 308 Td (- Calculate 1st Fresnel Zone obstacle clearances for line-of-sight assurance.) Tj ET
+    BT /F2 12 Tf 80 286 Td (- Compare 433 MHz, 868 MHz, 915 MHz, and 2.4 GHz LoRa/RF transceivers.) Tj ET
+    BT /F2 12 Tf 80 264 Td (- Build an intuitive web dashboard allowing faculty and students to simulate radio links.) Tj ET
+    BT /F2 12 Tf 80 242 Td (- Provide predictive link margin indicators with rain, vegetation, and urban fades.) Tj ET
+
+    0.90 0.94 1.0 rg 60 90 722 115 re f
+    0.18 0.30 0.65 rg 60 90 722 115 re s
+    0.08 0.15 0.35 rg
+    BT /F1 13 Tf 80 175 Td (Key Innovation & Community Impact:) Tj ET
+    BT /F2 11 Tf 80 150 Td (Prevents radio hardware failure in rural disaster telemetry, smart agriculture telemetry,) Tj ET
+    BT /F2 11 Tf 80 130 Td (and college campus IoT networks by calculating exact transmitter power and antenna gains.) Tj ET
+    BT /F1 11 Tf 80 105 Td (Under the Supervision of: Prof. Amruta Kadli Mam | Department of E&ACT) Tj ET
+    
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 8 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 2271 >>
+stream
+
+    0.96 0.97 0.99 rg 0 0 842 595 re f
+    0.08 0.15 0.35 rg 0 520 842 75 re f
+    1 1 1 rg
+    BT /F1 22 Tf 50 545 Td (Mathematical Modeling & RF Link Budget) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F2 12 Tf 50 530 Td (Formulas implemented in the RF Range Calculator Engine) Tj ET
+
+    0.18 0.30 0.55 rg 50 340 350 145 re f
+    1 1 1 rg
+    BT /F1 14 Tf 70 455 Td (Free Space Path Loss \(FSPL\)) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F1 12 Tf 70 430 Td (FSPL \(dB\) = 20 log10\(d\) + 20 log10\(f\) + 32.44) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 11 Tf 70 405 Td (Where:) Tj ET
+    BT /F2 11 Tf 70 385 Td (  d = distance in kilometers \(km\)) Tj ET
+    BT /F2 11 Tf 70 365 Td (  f = frequency in megahertz \(MHz\)) Tj ET
+
+    0.18 0.30 0.55 rg 440 340 350 145 re f
+    1 1 1 rg
+    BT /F1 14 Tf 460 455 Td (Received Power \(Pr\) & Link Margin) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F1 12 Tf 460 430 Td (Pr \(dBm\) = Pt + Gt + Gr - FSPL - Lmisc) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 11 Tf 460 405 Td (Fade Margin \(FM\) = Pr - Receiver Sensitivity) Tj ET
+    BT /F2 11 Tf 460 385 Td (  Pt = Transmitter Power \(dBm\)) Tj ET
+    BT /F2 11 Tf 460 365 Td (  Gt, Gr = Tx and Rx Antenna Gains \(dBi\)) Tj ET
+
+    0.18 0.30 0.55 rg 50 160 350 155 re f
+    1 1 1 rg
+    BT /F1 14 Tf 70 285 Td (1st Fresnel Zone Radius) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F1 12 Tf 70 260 Td (R1 \(m\) = 8.656 * sqrt\( d / f_GHz \)) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 11 Tf 70 235 Td (Maintains minimum 60% clearance) Tj ET
+    BT /F2 11 Tf 70 215 Td (to avoid multi-path diffraction and signal fade.) Tj ET
+    BT /F2 11 Tf 70 185 Td (Essential for line-of-sight validation.) Tj ET
+
+    0.18 0.30 0.55 rg 440 160 350 155 re f
+    1 1 1 rg
+    BT /F1 14 Tf 460 285 Td (Maximum Range Inversion) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F1 12 Tf 460 260 Td (d_max = 10 ^ \(\([Pt+Gt+Gr-S_rx-FM-32.44\) - 20log10\(f\)] / 20\)) Tj ET
+    0.9 0.95 1 rg
+    BT /F2 11 Tf 460 235 Td (Computes theoretical maximum range) Tj ET
+    BT /F2 11 Tf 460 215 Td (instantly based on hardware transceiver specs.) Tj ET
+    BT /F2 11 Tf 460 185 Td (Supports LoRa, ZigBee, Wi-Fi, and NRF24.) Tj ET
+
+    BT /F2 11 Tf 50 80 Td (Student Researchers: Chaitnaya Shinde, Dipak Belkar, Lokesh Norlawar, Kiran Sasane, Shruti Shinde) Tj ET
+    
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Contents 10 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 2015 >>
+stream
+
+    0.96 0.97 0.99 rg 0 0 842 595 re f
+    0.08 0.15 0.35 rg 0 520 842 75 re f
+    1 1 1 rg
+    BT /F1 22 Tf 50 545 Td (Project Milestones & Development Progress) Tj ET
+    0.38 0.85 0.98 rg
+    BT /F2 12 Tf 50 530 Td (Current Progress: 85% Completed | Target Defense: 31st October 2026) Tj ET
+
+    0.12 0.58 0.32 rg 50 435 25 25 re f
+    1 1 1 rg BT /F1 14 Tf 58 442 Td (X) Tj ET
+    0.1 0.15 0.25 rg
+    BT /F1 14 Tf 90 445 Td (Milestone 1: RF Link Budget & Path Loss Formulation) Tj ET
+    BT /F2 11 Tf 90 425 Td (Status: 100% Completed & Verified with standard ITU-R propagation tables.) Tj ET
+
+    0.12 0.58 0.32 rg 50 365 25 25 re f
+    1 1 1 rg BT /F1 14 Tf 58 372 Td (X) Tj ET
+    0.1 0.15 0.25 rg
+    BT /F1 14 Tf 90 375 Td (Milestone 2: Antenna Gain & Sensitivity Modeling) Tj ET
+    BT /F2 11 Tf 90 355 Td (Status: 100% Completed with Dipole, Yagi, and Patch antenna options.) Tj ET
+
+    0.12 0.58 0.32 rg 50 295 25 25 re f
+    1 1 1 rg BT /F1 14 Tf 58 302 Td (X) Tj ET
+    0.1 0.15 0.25 rg
+    BT /F1 14 Tf 90 305 Td (Milestone 3: Interactive Web-Based Calculator UI) Tj ET
+    BT /F2 11 Tf 90 285 Td (Status: 100% Completed - Real-time slider calculation and responsive UI.) Tj ET
+
+    0.12 0.58 0.32 rg 50 225 25 25 re f
+    1 1 1 rg BT /F1 14 Tf 58 232 Td (X) Tj ET
+    0.1 0.15 0.25 rg
+    BT /F1 14 Tf 90 235 Td (Milestone 4: Multi-Frequency Terrain & Clutter Calibration) Tj ET
+    BT /F2 11 Tf 90 215 Td (Status: 100% Completed - Includes urban, suburban, and rural loss factors.) Tj ET
+
+    0.95 0.65 0.15 rg 50 155 25 25 re f
+    1 1 1 rg BT /F1 14 Tf 58 162 Td (->) Tj ET
+    0.1 0.15 0.25 rg
+    BT /F1 14 Tf 90 165 Td (Milestone 5: Final Defense, Documentation & PPT Presentation) Tj ET
+    BT /F2 11 Tf 90 145 Td (Status: Underway \(Due 31st October 2026\) before Prof. Amruta Kadli Mam.) Tj ET
+
+    0.14 0.22 0.45 rg 50 60 742 40 re f
+    1 1 1 rg
+    BT /F1 14 Tf 70 75 Td (OVERALL PROGRESS: 85% COMPLETED) Tj ET
+    BT /F2 12 Tf 480 75 Td (Verified by Prof. Amruta Kadli Mam) Tj ET
+    
+endstream
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000133 00000 n 
+0000000271 00000 n 
+0000001947 00000 n 
+0000002085 00000 n 
+0000004038 00000 n 
+0000004176 00000 n 
+0000006499 00000 n 
+0000006638 00000 n 
+0000008706 00000 n 
+0000008782 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+8853
+%%EOF

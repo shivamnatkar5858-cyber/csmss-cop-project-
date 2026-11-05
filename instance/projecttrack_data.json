@@ -1,0 +1,665 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_code": "SIH26103",
+      "title": "Web-Based Integrated Project Monitoring System",
+      "description": "A centralized platform for tracking student final year engineering projects, milestones, documentation, and guide feedback.",
+      "department": "E&ACT",
+      "guide_name": "Prof. A. M. Kadli Mam",
+      "guide_id": 2,
+      "progress": 90,
+      "status": "In Progress",
+      "start_date": "01 Sep 2026",
+      "expected_completion": "31 Oct 2026",
+      "tech_stack": [
+        "Python Flask",
+        "SQLite",
+        "HTML5/CSS3",
+        "REST API",
+        "JavaScript",
+        "Firebase Auth"
+      ],
+      "team_members": [
+        {
+          "id": 1,
+          "name": "Shivam Natkar",
+          "roll_no": "26EACT01",
+          "role": "Team Leader / Full-Stack Developer"
+        },
+        {
+          "id": 2,
+          "name": "Sakshi Arbad",
+          "roll_no": "26EACT02",
+          "role": "UI/UX & Frontend Designer"
+        },
+        {
+          "id": 3,
+          "name": "Tejal Bhanuse",
+          "roll_no": "26EACT03",
+          "role": "Backend & Database Developer"
+        },
+        {
+          "id": 4,
+          "name": "Karan Sangle",
+          "roll_no": "26EACT04",
+          "role": "Testing & Quality Assurance"
+        },
+        {
+          "id": 5,
+          "name": "Abhishek Malwade",
+          "roll_no": "26EACT05",
+          "role": "Documentation & Presentation"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 1,
+          "project_id": 1,
+          "title": "Project Topic Selection & Synopsis Submission",
+          "description": "Problem statement, literature survey, and scope approval",
+          "due_date": "10 Sep 2026",
+          "is_completed": true,
+          "order": 0
+        },
+        {
+          "id": 2,
+          "project_id": 1,
+          "title": "Requirement Analysis & SRS Documentation",
+          "description": "Functional requirements, use cases, and IEEE SRS specification",
+          "due_date": "25 Sep 2026",
+          "is_completed": true,
+          "order": 1
+        },
+        {
+          "id": 3,
+          "project_id": 1,
+          "title": "System Architecture & Database Schema Design",
+          "description": "Relational SQLite tables, DFDs, ER diagrams, and REST contracts",
+          "due_date": "10 Oct 2026",
+          "is_completed": true,
+          "order": 2
+        },
+        {
+          "id": 4,
+          "project_id": 1,
+          "title": "Frontend UI & Backend REST API Implementation",
+          "description": "Full-stack dashboard, auth middleware, and document uploads",
+          "due_date": "25 Oct 2026",
+          "is_completed": true,
+          "order": 3
+        },
+        {
+          "id": 5,
+          "project_id": 1,
+          "title": "Final Presentation, Testing & PPT Defense",
+          "description": "Live project demonstration, final report validation, and PPT presentation",
+          "due_date": "31 Oct 2026",
+          "is_completed": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "project_code": "AC2103",
+      "title": "IoT-Based Weather Display Clock & Forecast Alert System",
+      "description": "Community Engagement Project (S.Y. 2026): Low-cost smart clock that shows live weather and gives timely forecast alerts to communities using ESP8266, DHT11, BMP280, YL-83, MQ135 sensors and buzzer alerts.",
+      "department": "E&ACT",
+      "guide_name": "Prof. A. M. Kadli Mam",
+      "guide_id": 2,
+      "progress": 80,
+      "status": "In Progress",
+      "start_date": "01 Sep 2026",
+      "expected_completion": "31 Oct 2026",
+      "tech_stack": [
+        "ESP8266 (NodeMCU)",
+        "DHT11 Humidity Sensor",
+        "BMP280 Pressure Sensor",
+        "YL-83 Rain Sensor",
+        "MQ135 Air Quality Sensor",
+        "0.96\" OLED Display",
+        "RTC Module",
+        "Buzzer Alert",
+        "Arduino C++"
+      ],
+      "team_members": [
+        {
+          "id": 1,
+          "name": "Rohan Sudhakar Dhavale",
+          "roll_no": "AC2103",
+          "role": "Team Leader / Project Lead"
+        },
+        {
+          "id": 2,
+          "name": "Rutvij Rustum Patil",
+          "roll_no": "AC2104",
+          "role": "Hardware & Circuit Designer"
+        },
+        {
+          "id": 3,
+          "name": "Vijay Ranjit Pardeshi",
+          "roll_no": "AC2130",
+          "role": "Sensor Integration & Calibration"
+        },
+        {
+          "id": 4,
+          "name": "Pallavi Badri Ade",
+          "roll_no": "AC2144",
+          "role": "Software & Alert Logic Developer"
+        },
+        {
+          "id": 5,
+          "name": "Pooja Sanjay Kanade",
+          "roll_no": "AC2159",
+          "role": "Testing & Presentation Documentation"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 1,
+          "project_id": 2,
+          "title": "Problem Statement & Sensor Sourcing",
+          "description": "ESP8266, DHT11, BMP280, YL-83, MQ135 and OLED acquisition",
+          "due_date": "10 Sep 2026",
+          "is_completed": true,
+          "order": 0
+        },
+        {
+          "id": 2,
+          "project_id": 2,
+          "title": "Literature Survey & Circuit Prototyping",
+          "description": "Sensor wiring and RTC timekeeping without Wi-Fi",
+          "due_date": "25 Sep 2026",
+          "is_completed": true,
+          "order": 1
+        },
+        {
+          "id": 3,
+          "project_id": 2,
+          "title": "OLED UI & Environmental Sensing Logic",
+          "description": "Live display rendering and pressure drop threshold detection",
+          "due_date": "10 Oct 2026",
+          "is_completed": true,
+          "order": 2
+        },
+        {
+          "id": 4,
+          "project_id": 2,
+          "title": "Buzzer Storm Warnings & Forecast Alerts",
+          "description": "Automatic acoustic warnings for community safety",
+          "due_date": "22 Oct 2026",
+          "is_completed": true,
+          "order": 3
+        },
+        {
+          "id": 5,
+          "project_id": 2,
+          "title": "Community Project Defense & PPT Presentation",
+          "description": "Final project defense before Prof. A. M. Kadli Mam",
+          "due_date": "31 Oct 2026",
+          "is_completed": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "project_code": "AC2152",
+      "title": "RF Communication Range Calculator",
+      "description": "Advanced Link Budget Analysis & Path Loss Propagation Modeling tool for estimating radio communication ranges, Fresnel zone clearances, and antenna parameters across sub-GHz and 2.4 GHz RF links.",
+      "department": "Electronics & Communication (ACT)",
+      "guide_name": "Prof. Amruta Kadli Mam",
+      "guide_id": 2,
+      "progress": 85,
+      "status": "In Progress",
+      "start_date": "01 Sep 2026",
+      "expected_completion": "31 Oct 2026",
+      "tech_stack": [
+        "Python",
+        "RF Link Budget",
+        "Friis Equation",
+        "FSPL Modeling",
+        "JavaScript",
+        "HTML5/CSS3",
+        "Antenna Theory"
+      ],
+      "team_members": [
+        {
+          "id": 1,
+          "name": "Chaitnaya Shinde",
+          "roll_no": "AC2152",
+          "role": "Team Leader / Project Lead"
+        },
+        {
+          "id": 2,
+          "name": "Dipak Belkar",
+          "roll_no": "AC2126",
+          "role": "RF Path Loss & Link Budget Analysis"
+        },
+        {
+          "id": 3,
+          "name": "Lokesh Norlawar",
+          "roll_no": "AC2146",
+          "role": "Antenna & Frequency Propagation Modeling"
+        },
+        {
+          "id": 4,
+          "name": "Kiran Sasane",
+          "roll_no": "AC2118",
+          "role": "Fresnel Zone & Terrain Attenuation Logic"
+        },
+        {
+          "id": 5,
+          "name": "Shruti Shinde",
+          "roll_no": "AC2145",
+          "role": "UI Design & PPT Presentation"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 1,
+          "project_id": 3,
+          "title": "RF Link Budget & Path Loss Formulation",
+          "description": "Theoretical derivation of FSPL and Friis transmission equation",
+          "due_date": "10 Sep 2026",
+          "is_completed": true,
+          "order": 0
+        },
+        {
+          "id": 2,
+          "project_id": 3,
+          "title": "Antenna Gain & Sensitivity Modeling",
+          "description": "Transmitter power and receiver sensitivity calibration",
+          "due_date": "25 Sep 2026",
+          "is_completed": true,
+          "order": 1
+        },
+        {
+          "id": 3,
+          "project_id": 3,
+          "title": "Interactive Web-Based Calculator UI",
+          "description": "Real-time parameter sliders and Fresnel zone radius rendering",
+          "due_date": "10 Oct 2026",
+          "is_completed": true,
+          "order": 2
+        },
+        {
+          "id": 4,
+          "project_id": 3,
+          "title": "Multi-Frequency Terrain & Clutter Calibration",
+          "description": "Rural, suburban, and urban path loss attenuation modeling",
+          "due_date": "22 Oct 2026",
+          "is_completed": true,
+          "order": 3
+        },
+        {
+          "id": 5,
+          "project_id": 3,
+          "title": "Final Defense, Documentation & PPT Presentation",
+          "description": "Final project defense before Prof. Amruta Kadli Mam",
+          "due_date": "31 Oct 2026",
+          "is_completed": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "project_code": "AC2148",
+      "title": "Modulation and Demodulation Simulator",
+      "description": "Interactive Analog & Digital Communication Signal Simulation System modeling AM (DSB-FC/SC, SSB), FM (Narrowband/Wideband), PM, and Digital Shift Keying (ASK, FSK, BPSK, QPSK) with live time-domain and FFT spectral analysis.",
+      "department": "Electronics And Communication (Advanced Communication Technology)",
+      "guide_name": "Prof. Amruta Kadli Mam",
+      "guide_id": 2,
+      "progress": 80,
+      "status": "In Progress",
+      "start_date": "01 Sep 2026",
+      "expected_completion": "31 Oct 2026",
+      "tech_stack": [
+        "Python",
+        "Signal Processing",
+        "FFT Spectral Analysis",
+        "AM/FM/PM Modulation",
+        "JavaScript",
+        "HTML5 Canvas",
+        "AWGN Noise Channel"
+      ],
+      "team_members": [
+        {
+          "id": 1,
+          "name": "Gargi Deshpande",
+          "roll_no": "AC2148",
+          "role": "Team Leader / Simulation Architect"
+        },
+        {
+          "id": 2,
+          "name": "Mayuri Jagtap",
+          "roll_no": "AC2149",
+          "role": "AM/FM Modulation Modeling"
+        },
+        {
+          "id": 3,
+          "name": "Sanika Bhalerao",
+          "roll_no": "AC2150",
+          "role": "Demodulation Filters & Envelope Detectors"
+        },
+        {
+          "id": 4,
+          "name": "Asawari Kavre",
+          "roll_no": "AC2151",
+          "role": "FFT Spectral Visualizer & PPT Presentation"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 1,
+          "project_id": 4,
+          "title": "Mathematical Waveform Equations Formulation",
+          "description": "AM, FM, PM mathematical expressions and parameter definitions",
+          "due_date": "10 Sep 2026",
+          "is_completed": true,
+          "order": 0
+        },
+        {
+          "id": 2,
+          "project_id": 4,
+          "title": "Time-Domain Waveform & Live FFT Spectrum Visualizer",
+          "description": "Real-time oscilloscope plotting and carrier frequency calculation",
+          "due_date": "25 Sep 2026",
+          "is_completed": true,
+          "order": 1
+        },
+        {
+          "id": 3,
+          "project_id": 4,
+          "title": "Demodulation Filters & Noise Injection Module",
+          "description": "Envelope detectors, PLL demodulators, and AWGN noise stage",
+          "due_date": "10 Oct 2026",
+          "is_completed": true,
+          "order": 2
+        },
+        {
+          "id": 4,
+          "project_id": 4,
+          "title": "Interactive Web UI & Parameter Control Sliders",
+          "description": "Real-time slider tuning for carrier/modulating frequencies and modulation index",
+          "due_date": "22 Oct 2026",
+          "is_completed": true,
+          "order": 3
+        },
+        {
+          "id": 5,
+          "project_id": 4,
+          "title": "Final Defense, Presentation & Faculty Evaluation",
+          "description": "Final project defense before Prof. Amruta Kadli Mam",
+          "due_date": "31 Oct 2026",
+          "is_completed": false,
+          "order": 4
+        }
+      ]
+    }
+  ],
+  "feedbacks": [
+    {
+      "teacher_name": "Prof. Amruta Kadli Mam",
+      "message": "Great simulation work on the Modulation and Demodulation Simulator! The AM envelope detector, FM PLL demodulator, and live FFT spectrum are accurately modeled. Progress approved at 80% for your upcoming defense.",
+      "date": "Today"
+    },
+    {
+      "teacher_name": "Prof. Amruta Kadli Mam",
+      "message": "Excellent work on the RF Communication Range Calculator! The link budget formulas, Fresnel zone clearance calculations, and interactive slider UI are thoroughly developed. Progress approved at 85% for your upcoming defense.",
+      "date": "Today"
+    },
+    {
+      "teacher_name": "Prof. A. M. Kadli Mam",
+      "message": "Outstanding progress on the Web-Based Integrated Project Monitoring System! Frontend and backend REST APIs are functioning smoothly. Progress approved at 90% for your class presentation.",
+      "date": "Today"
+    },
+    {
+      "teacher_name": "Prof. A. M. Kadli Mam",
+      "message": "Great work on the IoT-Based Weather Display Clock & Forecast Alert System! Local sensing with buzzer alerts is well thought out for community safety. Progress approved at 80% for your upcoming presentation.",
+      "date": "Today"
+    },
+    {
+      "teacher_name": "Prof. A. M. Kadli Mam",
+      "message": "Architecture and documentation reviewed. System is ready for live college demonstration.",
+      "date": "2 days ago"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "user_id": 1,
+      "title": "Class Presentation Ready",
+      "message": "Web-Based Integrated Project Monitoring System has reached 90% completion and is ready for live demonstration.",
+      "type": "success",
+      "is_read": false,
+      "created_at": "2026-10-28T16:00:00.000Z",
+      "time": "Just now"
+    },
+    {
+      "id": 2,
+      "project_id": 1,
+      "user_id": 1,
+      "title": "Milestone 4 Approved",
+      "message": "Full-stack REST API and Dashboard implementation marked completed by Prof. A. M. Kadli Mam.",
+      "type": "milestone",
+      "is_read": true,
+      "created_at": "2026-10-27T10:00:00.000Z",
+      "time": "Yesterday"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "student_id": 1,
+      "title": "Phase 1 - Project Synopsis & SRS Document",
+      "description": "System Architecture, specifications and literature survey for Web-Based Project Monitoring System",
+      "file_name": "Project_SRS_Document_SIH26103.pdf",
+      "file_path": "/uploads/Project_SRS_Document_SIH26103.pdf",
+      "file_size": 2450100,
+      "file_type": "report",
+      "stage": "Synopsis Review",
+      "submission_date": "12 Sep 2026",
+      "status": "Approved",
+      "feedback": "Approved by Prof. A. M. Kadli Mam. Comprehensive requirements analysis.",
+      "rating": 9
+    },
+    {
+      "id": 2,
+      "project_id": 1,
+      "student_id": 1,
+      "title": "Phase 2 - Architecture & Frontend Design Report",
+      "description": "Frontend UI/UX design, interactive charts and database schema documentation",
+      "file_name": "Frontend_Architecture_Phase2.pdf",
+      "file_path": "/uploads/Frontend_Architecture_Phase2.pdf",
+      "file_size": 3120000,
+      "file_type": "report",
+      "stage": "Mid-Term",
+      "submission_date": "26 Sep 2026",
+      "status": "Approved",
+      "feedback": "Clean architecture and modern responsive interface design.",
+      "rating": 9
+    },
+    {
+      "id": 3,
+      "project_id": 1,
+      "student_id": 1,
+      "title": "Final Presentation Slides (PPT)",
+      "description": "Final capstone defense slides covering live system demonstration and test metrics",
+      "file_name": "1791732756586_test_slide.pptx",
+      "file_path": "/uploads/1791732756586_test_slide.pptx",
+      "file_size": 4500000,
+      "file_type": "presentation",
+      "stage": "Final Defense",
+      "submission_date": "20 Oct 2026",
+      "status": "Approved",
+      "feedback": "Excellent presentation structure. Ready for final evaluation on 31st Oct 2026.",
+      "rating": 10
+    },
+    {
+      "id": 4,
+      "project_id": 2,
+      "student_id": 3,
+      "title": "Community Engagement Project Presentation (PPT/PDF)",
+      "description": "Community Engagement Project Presentation (S.Y. 2026) detailing low-cost smart weather clock with buzzer alerts.",
+      "file_name": "IoT_Weather_Clock_CEP_Presentation_v4_fa8890db.pdf",
+      "file_path": "/assets/aistudio/IoT_Weather_Clock_CEP_Presentation_v4_fa8890db.pdf",
+      "file_size": 391033,
+      "file_type": "presentation",
+      "stage": "Final Defense",
+      "submission_date": "29 Oct 2026",
+      "status": "Approved",
+      "feedback": "Presentation slides and hardware architecture reviewed. Progress approved at 80% by Prof. A. M. Kadli Mam.",
+      "rating": 9
+    },
+    {
+      "id": 5,
+      "project_id": 3,
+      "student_id": 4,
+      "title": "RF Communication Range Calculator Presentation (PPT/PDF)",
+      "description": "Comprehensive presentation covering RF link budget equations, Friis transmission model, Fresnel zone clearance, and interactive web calculator.",
+      "file_name": "RF_Communication_Range_Calculator_Presentation.pdf",
+      "file_path": "/assets/aistudio/RF_Communication_Range_Calculator_Presentation.pdf",
+      "file_size": 9179,
+      "file_type": "presentation",
+      "stage": "Final Defense",
+      "submission_date": "30 Oct 2026",
+      "status": "Approved",
+      "feedback": "Link budget formulations, Fresnel zone clearance, and UI range calculator reviewed. Progress approved at 85% by Prof. Amruta Kadli Mam.",
+      "rating": 9
+    },
+    {
+      "id": 6,
+      "project_id": 4,
+      "student_id": 5,
+      "title": "Modulation & Demodulation Simulator Presentation (PPT/PDF)",
+      "description": "Comprehensive presentation covering AM/FM/PM waveforms, FFT spectral analysis, envelope detection, PLL demodulation, and interactive laboratory simulation.",
+      "file_name": "Modulation_and_Demodulation_Simulator_Presentation.pdf",
+      "file_path": "/assets/aistudio/Modulation_and_Demodulation_Simulator_Presentation.pdf",
+      "file_size": 9313,
+      "file_type": "presentation",
+      "stage": "Final Defense",
+      "submission_date": "30 Oct 2026",
+      "status": "Approved",
+      "feedback": "AM/FM algorithms, demodulation filters, and live FFT waveforms reviewed. Progress approved at 80% by Prof. Amruta Kadli Mam.",
+      "rating": 9
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Prof. A. M. Kadli Mam",
+      "role": "teacher",
+      "role_title": "Assistant Professor & Project Coordinator",
+      "department": "E&ACT",
+      "college": "CSMSS Chh. Shahu College of Engineering, Chh. Sambhajinagar",
+      "avatar_color": "#4f46e5",
+      "rating": 5,
+      "quote": "ProjectTrack has streamlined final year project mentoring. Reviewing milestone submissions, giving feedback, and monitoring progress at 90% is transparent and effortless.",
+      "project_or_focus": "Integrated Project Monitoring & Review Management",
+      "impact_tag": "Faculty Verified",
+      "date": "Oct 2026",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Shivam Natkar",
+      "role": "student",
+      "role_title": "Final Year B.Tech Student & Project Lead",
+      "department": "E&ACT",
+      "college": "CSMSS Chh. Shahu College of Engineering, Chh. Sambhajinagar",
+      "avatar_color": "#06b6d4",
+      "rating": 5,
+      "quote": "Our project Web-Based Integrated Project Monitoring System reached 90% progress smoothly with real-time guide collaboration, milestone tracking, and document submissions.",
+      "project_or_focus": "Web-Based Integrated Project Monitoring System",
+      "impact_tag": "Team Leader - 90% Completed",
+      "date": "Oct 2026",
+      "verified": true
+    }
+  ],
+  "users": {
+    "student@csmss.edu": {
+      "id": 1,
+      "email": "student@csmss.edu",
+      "name": "Shivam Natkar",
+      "roll_no": "26EACT01",
+      "department": "E&ACT",
+      "role": "student",
+      "project_id": 1,
+      "password": "password123"
+    },
+    "shivamnatkarcsmss@gmail.com": {
+      "id": 1,
+      "email": "shivamnatkarcsmss@gmail.com",
+      "name": "Shivam Natkar",
+      "roll_no": "26EACT01",
+      "department": "E&ACT",
+      "role": "student",
+      "project_id": 1,
+      "password": "password123"
+    },
+    "teachercsmss@gmail.com": {
+      "id": 2,
+      "email": "teachercsmss@gmail.com",
+      "name": "Prof. A. M. Kadli Mam",
+      "role": "teacher",
+      "department": "E&ACT",
+      "designation": "Assistant Professor & Project Coordinator",
+      "firebase_uid": "teacher-firebase-uid-001",
+      "password": "password123"
+    },
+    "teacher@csmss.edu": {
+      "id": 2,
+      "email": "teacher@csmss.edu",
+      "name": "Prof. A. M. Kadli Mam",
+      "role": "teacher",
+      "department": "E&ACT",
+      "designation": "Assistant Professor & Project Coordinator",
+      "password": "password123"
+    },
+    "kadli@csmss.edu": {
+      "id": 2,
+      "email": "kadli@csmss.edu",
+      "name": "Prof. A. M. Kadli Mam",
+      "role": "teacher",
+      "department": "E&ACT",
+      "designation": "Assistant Professor & Project Coordinator",
+      "password": "password123"
+    },
+    "rohandhavale@gmail.com": {
+      "id": 3,
+      "email": "rohandhavale@gmail.com",
+      "name": "Rohan Sudhakar Dhavale",
+      "roll_no": "AC2103",
+      "department": "E&ACT",
+      "role": "student",
+      "project_id": 2,
+      "password": "rohan1234"
+    },
+    "chaitnayashinde@gmail.com": {
+      "id": 4,
+      "email": "chaitnayashinde@gmail.com",
+      "name": "Chaitnaya Shinde",
+      "role": "student",
+      "roll_no": "AC2152",
+      "department": "Electronics & Communication (ACT)",
+      "project_id": 3,
+      "password": "chaitnaya1234"
+    },
+    "gargideshpande@gmail.com": {
+      "id": 5,
+      "email": "gargideshpande@gmail.com",
+      "name": "Gargi Deshpande",
+      "role": "student",
+      "roll_no": "AC2148",
+      "department": "Electronics And Communication (Advanced Communication Technology)",
+      "project_id": 4,
+      "password": "gargi1234"
+    }
+  },
+  "lastUpdated": "2026-10-30T08:32:25.009Z"
+}
